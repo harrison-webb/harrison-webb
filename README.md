@@ -1,6 +1,6 @@
 hi, I'm Harrison 😁 🙋🏻‍♂  
 
-📚👨🏻‍💻 I study math and computer science at the University of Utah. I like math, python, and data stuff, but lately I've been playing around with smart contract development, machine learning, and cryptography.  
+📚👨🏻‍💻 I study math and computer science at the University of Utah. I like math, python, and data stuff, and lately I've been playing around with [machine learning](https://github.com/harrison-webb/plant-classification), smart contract development, and cryptography.  
 
 Some cool courses that I've taken so far are data structures and algorithms with java, intro to probability, software practice 1 with c#, particle physics simulation with python, discrete math, and applied statistics 1 & 2 with R. In addition to these courses, I have been learning about neural networks via undergraduate research with Dr. Braxton Osting.
 
