@@ -1,4 +1,4 @@
-hi, I'm Harrison 😁 🙋🏻‍♂  
+Hi, I'm Harrison 😁 🙋🏻‍♂  
 
 📚👨🏻‍💻 I study computer science and (some) mathematics at the University of Utah.
    
