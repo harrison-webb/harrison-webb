@@ -1,6 +1,6 @@
 Hi, I'm Harrison 😁 🙋🏻‍♂  
 
-📚👨🏻‍💻 I study computer science and (some) mathematics at the University of Utah.
+📚👨🏻‍💻 I study computer science and a bit of math at the University of Utah.
    
 Reach me on discord @ harrisonw#8895  
 
