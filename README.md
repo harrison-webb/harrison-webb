@@ -1,8 +1,10 @@
-Hi, I'm Harrison 😁 🙋🏻‍♂  
+I'm Harrison
 
-📚👨🏻‍💻 I study computer science and a bit of math at the University of Utah.
-   
-Reach me on discord @ harrisonw#8895  
+Currently working on my startup [sonatic.app](https://sonatic.app)
+
+I'm a senior at the University of Utah
+
+Hit me up on twitter @[harrison___webb](https://twitter.com/harrison___webb)
 
 ## 🐉🌱🔮🧙🏼‍♂️🐈‍⬛✨🧋⛰🟢
 <!---
