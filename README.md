@@ -1,8 +1,8 @@
-I'm Harrison
+Hi, I'm Harrison
 
-Currently working on my startup [sonatic.app](https://sonatic.app)
+Currently working on [sonatic.app](https://sonatic.app), some projects in swift, and reading through sicp
 
-I'm a senior at the University of Utah
+I'm a junior at the University of Utah
 
 Hit me up on twitter @[harrison___webb](https://twitter.com/harrison___webb)
 
